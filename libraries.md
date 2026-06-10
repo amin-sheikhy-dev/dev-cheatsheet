@@ -9,6 +9,8 @@ npm create vite@latest
 ```
 ```bash
 npm i
+```
+```bash
 npm run dev
 ```
 
@@ -18,6 +20,8 @@ npm run dev
 
 ```bash
 npx create-next-app@latest
+```
+```bash
 npm run dev
 ```
 
@@ -25,6 +29,8 @@ npm run dev
 
 ```bash
 npm run build
+```
+```bash
 npm start
 ```
 
