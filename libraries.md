@@ -51,6 +51,8 @@ npm start
 
 ```bash
 npm i -D tailwindcss@3 postcss autoprefixer
+```
+```bash
 npx tailwind init -p
 ```
 
@@ -132,6 +134,8 @@ npm i react-router-dom
 
 ```bash
 npm i @reduxjs/toolkit
+```
+```bash
 npm i react-redux
 ```
 
