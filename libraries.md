@@ -102,7 +102,9 @@ npm i -D prettier prettier-plugin-tailwindcss
 ابتدا ساخت یک فایل
 `.prettierrc`
 و قرار دادن متن زیر داخلش
-
+```
+.prettierrc
+```
 ```json
 {
   "plugins": ["prettier-plugin-tailwindcss"],
