@@ -6,6 +6,8 @@
 
 ```bash
 npm create vite@latest
+```
+```bash
 npm i
 npm run dev
 ```
