@@ -170,6 +170,16 @@ git remote add origin https://github.com/amin-dev3232/test.git
 git remote
 ```
 
+## چک کردن ریموت فعلی
+```bash
+git remote -v
+```
+## عوض کردن ریموت
+```bash
+git remote set-url origin https://github.com/amin-sheikhy-dev/paradise.git
+```
+
+
 ---
 
 # Push
