@@ -64,7 +64,7 @@
     "prefix": "com",
     "scope": "javascript,typescript,javascriptreact,typescriptreact",
     "body": [
-      "export default function ${TM_FILENAME_BASE}() {",
+      "export default function $0${TM_FILENAME_BASE/(^|[-_])(\\w)/${2:/upcase}/g}() {",
       "  return (",
       "    <div>",
       "      <p>${TM_FILENAME_BASE} Component</p>",
